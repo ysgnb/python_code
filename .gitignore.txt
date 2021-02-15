@@ -1,1 +1,1 @@
-.vscode/
+C:\VSC\python_code\cainiao\.vscode
